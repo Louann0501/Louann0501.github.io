@@ -1,0 +1,56 @@
+<head>
+<title>Mon Anniversaire</title>
+<style media= "screen">
+body {
+  background-color: #7f00ff
+}
+
+    h1 {
+       color: maroon;
+       margin-left: 40px;
+    }
+    h2 {
+      color: red;
+      margin-left: 0px;
+    }
+    img {
+     mardin-left: 250px
+    }
+    p {
+     margin-left: 500px
+    }
+    a {
+     color: #294c91;
+     margin-left: 600px
+    }
+  <body>
+  </style>
+  </head>
+  <body>
+    <h1>LISTE DE CADEAUX</h1>
+  <img src="Photo anniversaire.jpg" alt="">
+
+  <h2>JOYEUX ANNIVERSAIRE</h2>
+  <a href="Malistedecadeaux.html">Mes cadeaux</a>
+
+    <form class="form-example" action="index.html" method="post"
+  <div class="form-example">
+    <label for="email">Entrez votre prénom: </label>
+    <input type="email" name="email" id="email" required>
+  </div>
+  <div class="form-example">
+    <label for="email">Entrez votre nom: </label>
+    <input type="email" name="email" id="email" required>
+  </div>
+
+    <div class="form-example">
+      <label for="email">Entrez votre email: </label>
+      <input type="email" name="email" id="email" required>
+    </div>
+    <div class="form-example">
+      <input type="submit" value="go!">
+    </div>
+  </form>
+
+
+</body>
